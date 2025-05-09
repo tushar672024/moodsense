@@ -1,0 +1,101 @@
+sentence,typing_speed,error_rate,sentiment_score,mood_label
+I just want to cry,2.41,3,0.0,neutral
+Super excited for tomorrow,4.98,2,0.35416666666666663,happy
+Life is amazing,5.56,0,0.6000000000000001,happy
+Just finished lunch,3.24,3,0.0,neutral
+"Another day, another task",3.13,3,0.0,neutral
+Super excited for tomorrow,4.94,2,0.35416666666666663,happy
+I went to the store,4.48,2,0.0,neutral
+This is the worst day ever,3.46,6,-1.0,sad
+Super excited for tomorrow,5.54,1,0.35416666666666663,happy
+"Another day, another task",3.08,3,0.0,neutral
+Life is amazing,4.01,2,0.6000000000000001,happy
+Celebrating good news today!,4.7,2,0.875,happy
+What a wonderful day!,5.64,0,1.0,happy
+Everything is going wrong,2.1,6,-0.5,sad
+Feeling down today,3.32,6,-0.15555555555555559,neutral
+Feeling down today,2.02,3,-0.15555555555555559,neutral
+Life is amazing,5.29,2,0.6000000000000001,happy
+Life is amazing,5.99,1,0.6000000000000001,happy
+I’m really upset right now,2.25,5,0.24285714285714285,happy
+Nothing new to report,4.42,3,0.13636363636363635,neutral
+Life is amazing,4.9,0,0.6000000000000001,happy
+Nothing makes sense anymore,3.33,4,0.0,neutral
+"Another day, another task",3.57,4,0.0,neutral
+I'm so tired of this,2.81,3,-0.4,sad
+Everything is going wrong,2.02,3,-0.5,sad
+I went to the store,3.46,1,0.0,neutral
+I’m really upset right now,3.46,6,0.24285714285714285,happy
+I feel terrible,2.37,3,-1.0,sad
+I feel terrible,2.39,4,-1.0,sad
+Feeling down today,3.34,4,-0.15555555555555559,neutral
+"Another day, another task",3.45,2,0.0,neutral
+I love this!,5.52,2,0.625,happy
+Super excited for tomorrow,4.53,2,0.35416666666666663,happy
+Everything is going wrong,2.86,5,-0.5,sad
+Feeling great today.,5.09,0,0.8,happy
+Super excited for tomorrow,4.13,1,0.35416666666666663,happy
+I'm so happy with the results,5.6,2,0.8,happy
+I feel terrible,2.53,5,-1.0,sad
+Just finished lunch,3.1,2,0.0,neutral
+I'm so tired of this,3.19,6,-0.4,sad
+This is the worst day ever,2.72,4,-1.0,sad
+Nothing new to report,4.31,2,0.13636363636363635,neutral
+I'm so happy with the results,4.77,2,0.8,happy
+Just finished lunch,3.45,4,0.0,neutral
+Nothing new to report,3.2,4,0.13636363636363635,neutral
+Just finished lunch,3.38,4,0.0,neutral
+Super excited for tomorrow,5.29,0,0.35416666666666663,happy
+This is the worst day ever,3.37,5,-1.0,sad
+Everything is going wrong,3.05,3,-0.5,sad
+Nothing makes sense anymore,3.17,5,0.0,neutral
+Typing randomly now,3.68,1,-0.5,sad
+"Another day, another task",4.01,2,0.0,neutral
+I feel terrible,3.48,3,-1.0,sad
+This is the worst day ever,3.19,5,-1.0,sad
+I went to the store,3.15,4,0.0,neutral
+Everything feels right,5.42,2,0.2857142857142857,happy
+I'm so happy with the results,4.93,1,0.8,happy
+I'm so tired of this,3.1,5,-0.4,sad
+Everything feels right,4.59,2,0.2857142857142857,happy
+I love this!,5.42,2,0.625,happy
+The sky is blue,3.06,3,0.0,neutral
+I love this!,5.05,1,0.625,happy
+This is awesome!,5.34,0,1.0,happy
+Working on my project,3.78,4,0.0,neutral
+Feeling down today,3.49,6,-0.15555555555555559,neutral
+Everything is going wrong,3.27,5,-0.5,sad
+"Another day, another task",3.47,3,0.0,neutral
+I’m really upset right now,3.24,6,0.24285714285714285,happy
+Everything feels right,5.72,2,0.2857142857142857,happy
+Nothing new to report,3.55,1,0.13636363636363635,neutral
+I just want to cry,3.48,3,0.0,neutral
+Life is amazing,4.17,1,0.6000000000000001,happy
+I’m really upset right now,2.83,4,0.24285714285714285,happy
+Life is amazing,4.75,2,0.6000000000000001,happy
+The sky is blue,3.56,3,0.0,neutral
+Celebrating good news today!,5.88,1,0.875,happy
+I went to the store,4.24,3,0.0,neutral
+"Another day, another task",3.17,4,0.0,neutral
+I feel terrible,2.72,5,-1.0,sad
+I went to the store,4.19,3,0.0,neutral
+Working on my project,3.89,2,0.0,neutral
+Nothing makes sense anymore,2.86,3,0.0,neutral
+Feeling down today,2.7,3,-0.15555555555555559,neutral
+The sky is blue,3.82,2,0.0,neutral
+This is awesome!,5.95,1,1.0,happy
+I'm so happy with the results,4.29,2,0.8,happy
+This is the worst day ever,2.5,3,-1.0,sad
+I’m really upset right now,3.36,3,0.24285714285714285,happy
+I’m really upset right now,2.85,6,0.24285714285714285,happy
+I went to the store,4.0,2,0.0,neutral
+The sky is blue,4.28,3,0.0,neutral
+Just finished lunch,3.91,4,0.0,neutral
+Nothing new to report,3.88,3,0.13636363636363635,neutral
+I'm so tired of this,2.94,3,-0.4,sad
+I feel terrible,2.76,6,-1.0,sad
+"Another day, another task",3.62,3,0.0,neutral
+Feeling great today.,5.18,2,0.8,happy
+I’m really upset right now,3.2,6,0.24285714285714285,happy
+Everything feels right,4.32,0,0.2857142857142857,happy
+It is a regular day,3.78,4,0.0,neutral
